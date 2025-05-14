@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm David
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=gotham&show_icons=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGjorgiev314&langs_count=4)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=gotham&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGjorgiev314&langs_count=4" />
+</a>
 
 <!--
 **DavidGjorgiev314/DavidGjorgiev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
