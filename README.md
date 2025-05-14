@@ -2,6 +2,8 @@
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=gotham&show_icons=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGjorgiev314&langs_count=4)
+
 <!--
 **DavidGjorgiev314/DavidGjorgiev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
