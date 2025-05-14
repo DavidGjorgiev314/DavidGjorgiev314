@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://davidgjorgiev.com/](https://davidgjorgiev.com/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=github_dark&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=github_dark&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGjorgiev314&theme=github_dark&langs_count=4&card_width=200" />
