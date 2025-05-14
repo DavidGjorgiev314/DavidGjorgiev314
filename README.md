@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGjorgiev314&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGjorgiev314&langs_count=4&card_width=200" />
 </a>
 <!--
 **DavidGjorgiev314/DavidGjorgiev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
