@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm David
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGjorgiev314&theme=dark&show_icons=true)
 
 <!--
 **DavidGjorgiev314/DavidGjorgiev314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
